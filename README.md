@@ -8,7 +8,7 @@ The goal of this assignment is to assess your ability to write a Python script t
 
 ### **Core Requirements**
 
-Your Python script should implement the following functionalities:
+The Python script should implement the following functionalities:
 
 1. **Count Requests per IP Address**:
     - Parse the provided log file to extract all IP addresses.
